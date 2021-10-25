@@ -1,0 +1,4 @@
+Venv
+.ipynb_checkpoints
+__pycache__
+CMDs.txt
